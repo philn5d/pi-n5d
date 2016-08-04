@@ -1,2 +1,2 @@
-from core.PiHeader import PiBCMHeader
+from core.PiHeader import PiBcmHeader
 from core.PiOutPin import PiOutPin
